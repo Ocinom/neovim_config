@@ -39,7 +39,7 @@ Plug 'neoclide/coc.nvim', { 'branch': 'release' }
 call plug#end()
 
 " Python venv
-let g:python3_host_prog = '/home/monico/.pyenv/bin/python3.11'
+let g:python3_host_prog = '/home/monico/.pyenv/bin/python3'
 
 " Set leader key
 let mapleader = '`'
