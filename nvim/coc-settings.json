@@ -1,9 +1,0 @@
-{
-	"languageserver": {
-		"rust": {
-			"command": "/usr/bin/rust-analyzer",
-			"filetypes": ["rust"]
-		}
-  },
-  "snippets.ultisnips.pythonPrompt": false
-}
